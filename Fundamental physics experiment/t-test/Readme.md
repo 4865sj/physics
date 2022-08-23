@@ -2,11 +2,11 @@
 
 #메뉴얼 <br>
 RED : <br>
-GREEN : <br>
+GREEN : 515 nm ~ 532 nm<br>
 BLUE : 450 nm ~ 488 nm <br>
 <br>
 #구글 <br>
 RED : <br>
-GREEN : <br>
+GREEN : 500 nm ~ 565 nm<br>
 BLUE : 450 nm ~ 485 nm <br>
 VIOLET : 380 nm ~ 450 nm <br>
